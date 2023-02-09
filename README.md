@@ -23,4 +23,4 @@ This task is the same as task 0, except:
 -   `p`and`q`are always prime numbers
 -   There is only one number in the files
 
--   Read:[RSA Factoring Challenge](https://intranet.hbtn.io/rltoken/8F5ClnjOFgDcNZXxeyrHxg "RSA Factoring Challenge")
+-   Read: [RSA Factoring Challenge](https://intranet.hbtn.io/rltoken/8F5ClnjOFgDcNZXxeyrHxg "RSA Factoring Challenge")
